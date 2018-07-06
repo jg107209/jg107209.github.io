@@ -128,7 +128,7 @@ body {
 }
 
 .footer {
-	float: inherit;
+	float: bottom;
 	position: absolute;
 	width: 100%;
 	background: black;
